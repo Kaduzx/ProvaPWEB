@@ -1,0 +1,19 @@
+. carta {
+    margem :  20 px ;   
+}
+
+
+. linha {
+    margem : automática;
+    largura máxima :  1000 px ;
+}
+
+corpo {
+    background-image :  url ( "../marvelBackground.gif" );
+}
+
+h1 {
+    margem : automática;
+    largura máxima :  950 px ;
+    cor : amêndoa escaldada;
+}
